@@ -4,5 +4,5 @@
 - idea2
 - idea 3
 
-** This is bold text**
-* this is italicised *
+**This is bold text**
+*this is italicised*
