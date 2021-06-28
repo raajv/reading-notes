@@ -13,6 +13,6 @@ You can add different styles such as
 - You can highlight your code by using ---
 - You could also create Task Lists using [x]
 - We can create Tables by using - for rows and |
-- **BEST PART IS GITHUB SUPPORTS EMOJIS !
+- **BEST PART IS GITHUB SUPPORTS EMOJIS !**
 
 
