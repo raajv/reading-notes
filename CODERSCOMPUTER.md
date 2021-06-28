@@ -12,5 +12,8 @@ Some also help with arranging the code , as well as help with completing attribu
 - *NOTEPAD++*
 
 # THE TERMINAL CHEAT SHEET
-- 
+- pwd- *So where are we*
+- ls- *Whats in our current location?*
+- paths - with .. or / or ../
+- moving around the system- *cd* 
 
