@@ -19,5 +19,7 @@ Growth mindset for me is where you are willing to learn through effort and commi
 
 *Link to my github porfolio* - [Raaj](https://github.com/raajv)
 
-[MARKDOWN](MARKDOWN.md)
+# MENU
 
+- [MARKDOWN](MARKDOWN.md)
+- [CODERS COMPUTER](coderscomputer.md)
