@@ -1,5 +1,5 @@
-#reading-notes
-## My name is Raaj. Namaste. ## 😎:
+#reading-notes#
+## My name is Raaj. Namaste. ## 😎
  
  
  
@@ -13,5 +13,5 @@ Growth mindset for me is where you are willing to learn through effort and commi
 - Be inspired by the work of your classmates
 - Review each day and see what I couldhav done better
 
-link to my github porfolio - [Raaj] (
+*Link to my github porfolio* - [Raaj] (https://github.com/raajv)
 
