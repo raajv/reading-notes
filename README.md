@@ -1,7 +1,7 @@
 
 ## My name is Raaj. Namaste.😎
 
-!(/main/gulfstream.jpg)
+!(gulfstream.jpg)
  
  
  
