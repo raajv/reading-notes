@@ -4,6 +4,6 @@
 - idea2
 - idea 3
 
-**This is bold text**
-*this is italicised*
-[star wars](starwars.com)
+- **This is bold text**
+- *this is italicised*
+- [star wars](https://starwars.com)
