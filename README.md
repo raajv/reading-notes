@@ -13,5 +13,5 @@ Growth mindset for me is where you are willing to learn through effort and commi
 - Be inspired by the work of your classmates
 - Review each day and see what I couldhav done better
 
-*Link to my github porfolio* - [Raaj] (https://github.com/raajv)
+*Link to my github porfolio* - [Raaj](https://github.com/raajv)
 
