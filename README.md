@@ -22,4 +22,4 @@ Growth mindset for me is where you are willing to learn through effort and commi
 # MENU
 
 - [MARKDOWN](MARKDOWN.md)
-- [CODERS COMPUTER](coderscomputer.md)
+- [CODERS COMPUTER](CODERSCOMPUTER.md)
