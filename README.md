@@ -15,6 +15,6 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 - [CODERS COMPUTER](CODERSCOMPUTER.md)
 - [GROWTH MINDSET](GROWTHMINDSET.md)
 - [GIT](GIT.md)
-
+- [HTML](HTML.md)
 
 
