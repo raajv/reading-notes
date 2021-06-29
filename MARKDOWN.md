@@ -7,6 +7,7 @@ You can add different styles such as
 - Add external links 
 - Lists
 - Headers etc.
+  Im now making change
 
 **GITHUB** uses mardown in their own way aswell.
 
