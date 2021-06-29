@@ -23,3 +23,12 @@ Growth mindset for me is where you are willing to learn through effort and commi
 
 - [MARKDOWN](MARKDOWN.md)
 - [CODERS COMPUTER](CODERSCOMPUTER.md)
+
+# ACP
+
+git add "file name"
+
+git commit -m "made changes" -\ a message
+
+git push origin main
+
