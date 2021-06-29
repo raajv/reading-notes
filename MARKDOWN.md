@@ -7,13 +7,13 @@ You can add different styles such as
 - Add external links 
 - Lists
 - Headers etc.
-  Im now making change
 
-**GITHUB** uses mardown in their own way aswell.
+
+**GITHUB** uses markdown in their own way aswell.
 
 - You can highlight your code by using ---
 - You could also create Task Lists using [x]
 - We can create Tables.
-- **BEST PART IS GITHUB SUPPORTS EMOJIS !**
+- **BEST PART IS MARKDOWN ON GITHUB SUPPORTS EMOJIS !**
 
 
