@@ -37,11 +37,11 @@ Now will be using ***ACP*** to push it up to github
 
 # ACP stands for-
 
-- git add "filename"
+- `git add "filename"`
 
-- git commit -m "message here"
+- `git commit -m "message here"`
 
-- git push origin main *since main is our root*
+- `git push origin main *since main is our root*`
 
 
 
