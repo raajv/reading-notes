@@ -11,7 +11,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 
 | CODE 102 READING NOTES  | CODE 201 READING NOTES |
 | ----------------------- | ---------------------- |
-| - [MARKDOWN](MARKDOWN.md) |                      |
+| - [MARKDOWN](MARKDOWN.md) |- [class-01](class-01.md) |
 | - [CODERS COMPUTER](CODERSCOMPUTER.md) |         |
 | - [GROWTH MINDSET](GROWTHMINDSET.md) |           |
 | - [GIT](GIT.md) |                                |
