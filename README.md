@@ -13,7 +13,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 | ----------------------- | ---------------------- |
 | - [MARKDOWN](MARKDOWN.md) |- [class-01](class-01.md) |
 | - [CODERS COMPUTER](CODERSCOMPUTER.md) |-[class-02](class-02.md) |
-| - [GROWTH MINDSET](GROWTHMINDSET.md) |           |
+| - [GROWTH MINDSET](GROWTHMINDSET.md) |           |- [class-03](class-03.md) |
 | - [GIT](GIT.md) |                                |
 | - [HTML](HTML.md) |                              |
 | - [CSS](CSS.md) |                                |
