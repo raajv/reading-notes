@@ -14,7 +14,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 | - [MARKDOWN](MARKDOWN.md) |- [class-01](class-01.md) |
 | - [CODERS COMPUTER](CODERSCOMPUTER.md) |-[class-02](class-02.md) |
 | - [GROWTH MINDSET](GROWTHMINDSET.md) |- [class-03](class-03.md) |
-| - [GIT](GIT.md) |                                |
+| - [GIT](GIT.md) | -[class-04](class-04.md) |
 | - [HTML](HTML.md) |                              |
 | - [CSS](CSS.md) |                                |
 | - [JAVA SCRIPT](java.md) |                       |
