@@ -15,7 +15,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 | - [CODERS COMPUTER](CODERSCOMPUTER.md) |-[class-02](class-02.md) |
 | - [GROWTH MINDSET](GROWTHMINDSET.md) |- [class-03](class-03.md) |
 | - [GIT](GIT.md) | -[class-04](class-04.md) |
-| - [HTML](HTML.md) |                              |
+| - [HTML](HTML.md) |-[class-5.md](class-05.md)   |
 | - [CSS](CSS.md) |                                |
 | - [JAVA SCRIPT](java.md) |                       |
 | - [java script 2](js2.md) |                      |
