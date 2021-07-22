@@ -18,7 +18,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 | - [HTML](HTML.md) |-[class-5.md](class-05.md)   |
 | - [CSS](CSS.md) | -[class-06.md](class-06.md)   |
 | - [JAVA SCRIPT](java.md) |- [class-07.md](class-07.md) |
-| - [java script 2](js2.md) |                      |
+| - [java script 2](js2.md) |[class-08.md](class-08.md) |
 | - [Expressions and Operators](expressionnops.md) |
 
  
