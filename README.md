@@ -28,6 +28,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 
 | CODE 301 READING NOTES |
 | ----------------------- |
+|- [Introduction to react and components](components.md) |
 
  
 
