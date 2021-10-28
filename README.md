@@ -30,7 +30,8 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 | ----------------------- |
 |- [Introduction to react and components](components.md) |
 |- [State and Props](stateandprops.md)|
-|- [React Docs and Spread Operator]( reactdocsnprops.md)
+|- [React Docs and Spread Operator]( reactdocsnprops.md)|
+|- [Forms and Ternary Operators](forms-and-ternary.md)|
 
  
 
