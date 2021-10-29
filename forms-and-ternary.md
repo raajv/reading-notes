@@ -25,3 +25,4 @@ A ternary operator is used instead of a if condition which makes the code neater
 
 
   let result = x===y ? console.log(true) : console.log(false)
+  ```

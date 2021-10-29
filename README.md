@@ -32,6 +32,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 |- [State and Props](stateandprops.md)|
 |- [React Docs and Spread Operator]( reactdocsnprops.md)|
 |- [Forms and Ternary Operators](forms-and-ternary.md)|
+|- [thinking in REACT and Higher order functions] (thinkinginreact.md)|
 
  
 
