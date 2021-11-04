@@ -36,6 +36,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 |- [node.js and pair programming](node-n-pair-progrm.md)|
 | - [rest and api keys](rest-api.md)|
 | - [api design](apidesign.md)|
+ - [fnctional programming](functionalprogramming.md)|
 
  
 
