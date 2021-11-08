@@ -38,6 +38,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 | - [api design](apidesign.md)|
 | - [fnctional programming](functionalprogramming.md)|
 | - [js callstack and js error](js-callstack-error.md)|
+| - [SQL v NoSQL](sql.md)|
 
  
 
