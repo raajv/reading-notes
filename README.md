@@ -40,6 +40,7 @@ Photo by [Chris Leipelt](https://unsplash.com/@cleipelt?utm_source=unsplash&utm_
 | - [js callstack and js error](js-callstack-error.md)|
 | - [SQL v NoSQL](sql.md)|
 | - [Status Codes](satuscodes.md)|
+| - [0 Auth Codes](0auth.md)|
 
  
 
